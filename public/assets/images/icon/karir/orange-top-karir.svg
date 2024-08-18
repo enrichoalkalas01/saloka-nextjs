@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398" height="272" viewBox="0 0 398 272">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="shutterstock_1481221832" width="398" height="272" rx="5" transform="translate(278 1466)" fill="#363636"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_10234" data-name="Rectangle 10234" width="151" height="97" transform="translate(525.5 1466)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f77a41"/>
+      <stop offset="1" stop-color="#d66a3a"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-278 -1466)" clip-path="url(#clip-path)">
+    <g id="Mask_Group_10" data-name="Mask Group 10" clip-path="url(#clip-path-2)">
+      <path id="Path_11675" data-name="Path 11675" d="M16529,1634.48s66.131-28.752,81.387,6.25,9.846,95.232,64.1,70.018,89.707,27.443,89.707,27.443H16529Z" transform="translate(17279.193 3191.57) rotate(180)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

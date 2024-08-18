@@ -1,0 +1,654 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+
+.full-width.padding {
+    padding: 0px 15%;
+    float: left;
+    width: 100%;
+}
+
+body#zona-belalantara #banner .banner-image:before {
+    display: none;
+}
+
+body#zona-belalantara .hero-atribut {
+    position: absolute;
+    bottom: 0px;
+}
+
+body#zona-belalantara #main-content{
+}
+
+#main-content{
+    color: white;
+}
+
+#main-content .main-box{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#main-content .main-box .title-box p{
+    max-width: 1000px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 150px;
+}
+
+div#slider-image .item{
+    width: 60%;
+    height: 550px;
+    overflow: hidden;
+}
+
+div#slider-image .item img {
+    width: 100%;
+    height: auto;
+}
+
+#slider-image .slick-slide {
+    padding: 0px 100px 0px 0px;
+}
+
+#slider-content{
+    width: 60%;
+    background: white;
+    padding: 30px;
+    /* left: 50%; */
+    transform: translate(0%, -40%);
+    border-radius: 15px;
+    z-index: 1;
+    position: relative;
+}
+
+#slider-content .title{
+    color: #F77A41;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#slider-content .description{
+    color: #696969;
+    font-size: 14px;
+}
+
+div#slider-content .slick-arrow {
+    display: none !important;
+}
+
+div#slider-image .slider-attribute {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 0;
+    transform: translate(0%, 85%);
+}
+
+div#slider-image {
+    z-index: 1;
+    position: relative;
+}
+
+div#slider-image .slider {
+    z-index: 1;
+}
+
+div#slider-content .slider-attribute {
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    transform: translateX(-100%);
+    /* display: none; */
+}
+
+div#dynamic-zona {
+    width: 100%;
+    padding: 50px 0px 50px;
+    padding-top: 0px;
+    float: left;
+    width: 100%;
+    background-image: url('../images/zona/background-balalantara-favorit.svg'), url('../images/zona/background-balalantara-favorit-2.svg'), linear-gradient(#398436, #1e4c1c);
+    background-repeat: no-repeat;
+    background-position: top, bottom;
+    background-size: initial;
+}
+
+div#dynamic-zona .row {
+    margin: 0px;
+}
+
+.zona-item.odd .zona-img:before {top: -15px;left: -15px;}
+
+.zona-item {
+    position: relative;
+    margin-bottom: 100px;
+    float: left;
+    width: 100%;
+}
+
+.zona-img:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: white;
+    opacity: 0.11;
+    z-index: 0;
+    border-radius: 15px;
+}
+
+.zona-img {
+    position: relative;
+    width: 50%;
+    float: left;
+}
+
+.zona-item.odd .zona-description {
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #656565;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.zona-description .new-box-desc,
+#slider-content .new-box-desc {
+    width: 100%;
+    height: auto;
+    padding: 10px 0px;
+    display: flex;
+    flex-basis: 50%;
+    flex-direction: row;
+    color: #000 !important;
+}
+
+.zona-description .new-box-desc .lvl-box,
+#slider-content .new-box-desc .lvl-box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.zona-description .new-box-desc .age-box,
+#slider-content .new-box-desc .age-box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.zona-description .new-box-desc .lvl-box .img-box,
+.zona-description .new-box-desc .age-box .img-box,
+#slider-content .new-box-desc .lvl-box .img-box,
+#slider-content .new-box-desc .age-box .img-box {
+    max-width: 25px;
+    max-height: 25px;
+    width: 100%;
+    height: 100%;
+    margin-right: 5px;
+    /*background-color: #000;*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.zona-description .new-box-desc .lvl-box p,
+#slider-content .new-box-desc .lvl-box p,
+.zona-description .new-box-desc .age-box p,
+#slider-content .new-box-desc .age-box p {
+    margin: auto 10px;
+    color: #000;
+}
+
+.zona-description .new-box-desc .lvl-box .img-box,
+#slider-content .new-box-desc .lvl-box .img-box {
+    background-image: url('../images/zona/lvl-image.svg');
+}
+
+.zona-description .new-box-desc .age-box .img-box,
+#slider-content .new-box-desc .age-box .img-box {
+    background-image: url('../images/zona/age-image.svg');
+}
+
+.zona-img img {
+    z-index: 2;
+    position: relative;
+}
+
+.zona-img:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+
+.zona-item.odd .zona-img:after {
+    top: -30px;
+    left: -30px;
+}
+
+.zona-item.even .zona-img:before {
+    top: -15px;
+    right: -15px;
+}
+
+.zona-item.even .zona-img:after {
+    top: -30px;
+    right: -30px;
+}
+
+.zona-img img {
+    width: 100%;
+}
+
+.zona-item.even .zona-img {
+    margin-left: 50%;
+}
+
+.zona-item.even .zona-description {
+    position: absolute;
+    right: 50%;
+    width: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: white;
+    color: #656565;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.zona-description p {
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.zona-description h2 {
+    color: #F77A41;
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    position: relative;
+}
+
+.zona-description {
+    padding: 60px 75px;
+    background: white;
+    width: 50%;
+    position: absolute;
+}
+
+.zona-description h2:after {
+    content: '';
+    height: 2px;
+    background: #61C75D;
+    position: absolute;
+    width: 40px;
+    left: -20px;
+    bottom: -20px;
+}
+
+.zona-img-attribute {
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    transform: translateX(-100%);
+    z-index: 0;
+}
+
+.zona-item.even .zona-img-attribute {
+    right: -75px;
+    left: unset;
+    transform: translateX(50%) scaleX(-1);
+}
+
+#others-zona .wrapper {
+    border-radius: 15px;
+    box-shadow: none;
+    position: relative;
+    background: white;
+    padding: 20px 15px;
+}
+
+#others-zona .wrapper .content {
+    width: 100%;
+    margin: 0px auto;
+    display: table;
+    padding: 185px 0px;
+    border-radius: 15px;
+    position: relative;
+    z-index: 1;
+}
+
+div#others-zona h2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.other-zone-item a {
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 18px;
+    float: left;
+    width: 100%;
+    border-radius: 150px;
+}
+
+.other-zone-item {
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin: 20px 0px;
+    padding: 0px 15px;
+    max-width: 300px;
+}
+
+div#others-zona .item-wrapper {
+    max-width: 650px;
+    margin: 0px auto;
+    display: table;
+}
+
+footer.margin-top-auto-kuliner {
+    margin-top: -260px;
+    z-index: 3;
+    float: left;
+}
+
+#main-content .main-box .title-box {
+    padding-bottom: 100px;
+}
+
+div#others-zona {
+    background-image: url('../images/zona/background-balalantara-wahana-lain.svg'), linear-gradient(#1e4c1c, #153b14, #153b14, #153b14);
+    background-position: center top;
+    position: relative;
+    background-size: 100% auto;
+    padding: 50px 0px 245px;
+}
+
+div#other-zona-attribute {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 35%);
+    width: calc(100% + 168px);
+    z-index: 1;
+}
+
+#others-zona .wrapper:before {
+    content: '';
+    /* position: absolute; */
+    /* top: -20px; */
+    /* left: -15px; */
+    /* width: calc(100% + 30px); */
+    /* height: calc(100% + 40px); */
+    /* background: white; */
+    /* z-index: 0; */
+    /* border-radius: 15px; */
+}
+
+#slider-zona{
+    background-image: url('../images/zona/background-balalantara-slider.svg'), linear-gradient(#4caa48, #398436);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+#page-description{
+    background-image: url('../images/zona/background-balalantara-description.svg'), linear-gradient(#51b44d, #4caa48);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: bottom;
+}
+
+#slider-zona button.slick-prev.slick-arrow {
+    width: 45px;
+    height: 45px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1px;
+    background: url('../images/zona/slider-arrow-prev.svg');
+    background-size: cover;
+    border: unset;
+    bottom: 90px;
+    position: absolute;
+    left: 60%;
+    transform: translateX(93px);
+    color: transparent;
+    z-index: 1;
+}
+
+#slider-zona button.slick-next.slick-arrow {
+    width: 45px;
+    height: 45px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1px;
+    background: url('../images/zona/slider-arrow-next.svg');
+    background-size: cover;
+    border: unset;
+    bottom: 15px;
+    position: absolute;
+    left: 60%;
+    transform: translateX(94px);
+    color: transparent;
+    z-index: 1;
+}
+
+div#slider-image .slider:before {content: '';width: 30px;height: 1px;background: #E5E5E5;position: absolute;left: 60%;transform: translateX(100px);bottom: 75px;}
+
+div#dynamic-zona .container {
+    padding: 0px;
+}
+
+#slider-zona .slider-attribute {
+    position: absolute;
+    top: -15px;
+    left: 0px;
+    transform: translate(-100%, 10px);
+}
+
+div#slider-zona .container {
+    position: relative;
+    padding: 20px 0px;
+}
+
+div#order-ticket .container {
+    position: relative;
+    padding: 20px 0px;
+}
+
+div#order-ticket .container .bg-component {
+    width: 100%;
+    height: 500px;
+    background-image: url('../images/zona/ticket-bg-component-zona-component.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#ticket-section .container {
+    position: relative;
+    padding: 25px 0;
+}
+
+#ticket-section .container .bg-compontent {
+    width: 100%;
+    height: 500px;
+    background-image: url('../images/zona/ticket-bg-component-zona-component.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#dynamic-zona .container .labels-component {
+    width: 100%;
+    height: auto;
+    padding: 25px 0;
+    padding-top: 0px;
+    margin-bottom: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dynamic-zona .container .labels-component .component {
+    width: 60%;
+    height: 250px;
+    text-align: center;
+    /*background-color: #000;*/
+}
+
+#dynamic-zona .container .labels-component .component img {
+    width: 100%;
+}
+
+#dynamic-zona .container .labels-component .component p {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#others-zona .others-zona-component#ararya {
+    content: '';
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/zona/bg-others-zona-component.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    bottom: 75px;
+    left: 0px;
+    z-index: 1;
+}
+
+
+#others-zona .others-zona-component#kamayayi {
+    content: '';
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/zona/bg-others-zona-component-kamayayi.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    bottom: 75px;
+    left: 0px;
+    z-index: 1;
+}
+
+#others-zona .others-zona-component#pesisir {
+    content: '';
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/zona/bg-others-zona-component-pesisir-4.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    bottom: 75px;
+    left: 0px;
+    z-index: 1;
+}
+
+#others-zona .others-zona-component#segaraprada {
+    content: '';
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/zona/bg-others-zona-component-segaraprada.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    bottom: 65px;
+    left: 0px;
+    z-index: 1;
+}
+
+section.ticket-footer .wrapper {
+    background-size: 100%;
+}
+
+div#dynamic-zona .container .item-component-ararya   {
+    content: '';
+    width: 200px;
+    height: 200px;
+    background-image: url('../images/zona/ararya-component-2.svg');
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(0%, 0%);
+}
+
+.zona-item.odd #ararya-desc-1:before {
+    content: '';
+    width: 200px;
+    height: 200px;
+    background-image: url('../images/zona/ararya-component-3.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    position: absolute;
+    z-index: 3;
+    top: -200px;
+    right: 0;
+}
+
+#zone-even-ararya:before {
+    content: '';
+    width: 175px;
+    height: 175px;
+    background-image: url('../images/zona/ararya-component-2.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    position: absolute;
+    z-index: 0;
+    top: -125px;
+    right: 43%;
+}
+
+#zone-even-kamayayi:before {
+    content: '';
+    width: 150px;
+    height: 150px;
+    background-image: url('../images/zona/kamayayi-component-3.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    position: absolute;
+    z-index: 0;
+    top: -125px;
+    right: 43%;
+}
+
+@media screen and (max-width: 1366px) {
+    #main-content .main-box {
+        overflow: hidden;
+    }
+}

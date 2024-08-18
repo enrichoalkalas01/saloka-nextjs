@@ -1,0 +1,326 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="999" height="484" viewBox="0 0 999 484">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10220" data-name="Rectangle 10220" width="999" height="484" transform="translate(2148 7051)" fill="rgba(255,255,255,0.33)" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2d7c29"/>
+      <stop offset="0" stop-color="#4aa845"/>
+      <stop offset="1" stop-color="#2a6c27"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.345" y1="0.062" x2="0.473" y2="1.158" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53b84f"/>
+      <stop offset="1" stop-color="#327c2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.422" x2="1" y2="0.88" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53b84f"/>
+      <stop offset="1" stop-color="#509b4d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="-0.96" y1="0" y2="0.88" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="block-oval-hijau" transform="translate(-2148 -7051)" clip-path="url(#clip-path)">
+    <g id="Group_4534" data-name="Group 4534" transform="translate(2000 2550)">
+      <path id="Path_10488" data-name="Path 10488" d="M2824.3,4691.168c-76.526-22.557-120.138-91.994-250.185-89.031s-160.5,76.142-156.905,139.994,41.547,170.293,156.905,171.876,138.88-40.959,210.852-39.563,174.424,44.606,274.176,39.563,127.251-79.715,125.057-134.693-25.353-119.1-125.057-122.327S2900.822,4713.725,2824.3,4691.168Z" transform="translate(-3952.129 1589.402) rotate(-25)" fill="#74e06f" opacity="0.446"/>
+      <path id="Path_10489" data-name="Path 10489" d="M2732.878,4671.168c-59.353-17.494-93.178-71.349-194.041-69.051s-124.48,59.055-121.694,108.578,32.223,132.078,121.694,133.305,107.714-31.768,163.534-30.685,135.281,34.6,212.648,30.685,98.694-61.826,96.992-104.466-19.663-92.374-96.992-94.875S2792.231,4688.663,2732.878,4671.168Z" transform="translate(577.271 -719.487) rotate(30)" opacity="0.83" fill="url(#linear-gradient)"/>
+      <path id="Path_10487" data-name="Path 10487" d="M2813.183,4699.156c-74.439-24.578-116.861-100.239-243.361-97.01s-156.12,82.966-152.625,152.542,40.414,185.557,152.625,187.281,135.092-44.63,205.1-43.109,169.666,48.6,266.7,43.109,123.78-86.859,121.646-146.766-24.661-129.776-121.646-133.292S2887.622,4723.734,2813.183,4699.156Z" transform="matrix(0.996, 0.087, -0.087, 0.996, -1782.285, -249.928)" fill="#2d7c29" opacity="0.576"/>
+      <g id="Group_3477" data-name="Group 3477" transform="translate(5584.182 3413.513) rotate(90)" opacity="0.541">
+        <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1380.661 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_142" data-name="Ellipse 142" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4545.768)" fill="#94eb91"/>
+        <circle id="Ellipse_55" data-name="Ellipse 55" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4490.49)" fill="#94eb91"/>
+        <circle id="Ellipse_123" data-name="Ellipse 123" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4599.552)" fill="#94eb91"/>
+        <circle id="Ellipse_189" data-name="Ellipse 189" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4672.758)" fill="#94eb91"/>
+        <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1380.661 4454.633)" fill="#94eb91"/>
+        <circle id="Ellipse_128" data-name="Ellipse 128" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4563.696)" fill="#94eb91"/>
+        <circle id="Ellipse_67" data-name="Ellipse 67" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4508.417)" fill="#94eb91"/>
+        <circle id="Ellipse_124" data-name="Ellipse 124" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4618.974)" fill="#94eb91"/>
+        <ellipse id="Ellipse_190" data-name="Ellipse 190" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1380.661 4692.18)" fill="#94eb91"/>
+        <circle id="Ellipse_56" data-name="Ellipse 56" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4472.562)" fill="#94eb91"/>
+        <circle id="Ellipse_125" data-name="Ellipse 125" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4581.624)" fill="#94eb91"/>
+        <circle id="Ellipse_191" data-name="Ellipse 191" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4654.83)" fill="#94eb91"/>
+        <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1380.661 4526.346)" fill="#94eb91"/>
+        <circle id="Ellipse_126" data-name="Ellipse 126" cx="3.735" cy="3.735" r="3.735" transform="translate(1380.661 4636.902)" fill="#94eb91"/>
+        <ellipse id="Ellipse_192" data-name="Ellipse 192" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1380.661 4710.108)" fill="#94eb91"/>
+        <ellipse id="Ellipse_57" data-name="Ellipse 57" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1416.517 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_151" data-name="Ellipse 151" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4545.768)" fill="#94eb91"/>
+        <circle id="Ellipse_58" data-name="Ellipse 58" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4490.49)" fill="#94eb91"/>
+        <circle id="Ellipse_152" data-name="Ellipse 152" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4599.552)" fill="#94eb91"/>
+        <circle id="Ellipse_193" data-name="Ellipse 193" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4672.758)" fill="#94eb91"/>
+        <ellipse id="Ellipse_59" data-name="Ellipse 59" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1416.517 4454.633)" fill="#94eb91"/>
+        <circle id="Ellipse_153" data-name="Ellipse 153" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4563.696)" fill="#94eb91"/>
+        <circle id="Ellipse_68" data-name="Ellipse 68" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4508.417)" fill="#94eb91"/>
+        <circle id="Ellipse_154" data-name="Ellipse 154" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4618.974)" fill="#94eb91"/>
+        <ellipse id="Ellipse_194" data-name="Ellipse 194" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1416.517 4692.18)" fill="#94eb91"/>
+        <circle id="Ellipse_60" data-name="Ellipse 60" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4472.562)" fill="#94eb91"/>
+        <circle id="Ellipse_155" data-name="Ellipse 155" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4581.624)" fill="#94eb91"/>
+        <circle id="Ellipse_195" data-name="Ellipse 195" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4654.83)" fill="#94eb91"/>
+        <ellipse id="Ellipse_87" data-name="Ellipse 87" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1416.517 4526.346)" fill="#94eb91"/>
+        <circle id="Ellipse_156" data-name="Ellipse 156" cx="3.735" cy="3.735" r="3.735" transform="translate(1416.517 4636.902)" fill="#94eb91"/>
+        <ellipse id="Ellipse_196" data-name="Ellipse 196" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1416.517 4710.108)" fill="#94eb91"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.988" cy="2.988" r="2.988" transform="translate(1308.948 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_144" data-name="Ellipse 144" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4545.768)" fill="#94eb91"/>
+        <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4490.49)" fill="#94eb91"/>
+        <ellipse id="Ellipse_101" data-name="Ellipse 101" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4599.552)" fill="#94eb91"/>
+        <ellipse id="Ellipse_166" data-name="Ellipse 166" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4672.758)" fill="#94eb91"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="2.988" cy="2.988" r="2.988" transform="translate(1308.948 4454.633)" fill="#94eb91"/>
+        <ellipse id="Ellipse_130" data-name="Ellipse 130" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4563.696)" fill="#94eb91"/>
+        <ellipse id="Ellipse_40" data-name="Ellipse 40" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4508.417)" fill="#94eb91"/>
+        <ellipse id="Ellipse_102" data-name="Ellipse 102" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4618.974)" fill="#94eb91"/>
+        <circle id="Ellipse_167" data-name="Ellipse 167" cx="2.988" cy="2.988" r="2.988" transform="translate(1308.948 4692.18)" fill="#94eb91"/>
+        <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4472.562)" fill="#94eb91"/>
+        <ellipse id="Ellipse_114" data-name="Ellipse 114" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4581.624)" fill="#94eb91"/>
+        <ellipse id="Ellipse_168" data-name="Ellipse 168" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4654.83)" fill="#94eb91"/>
+        <circle id="Ellipse_41" data-name="Ellipse 41" cx="2.988" cy="2.988" r="2.988" transform="translate(1308.948 4526.346)" fill="#94eb91"/>
+        <ellipse id="Ellipse_103" data-name="Ellipse 103" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1308.948 4636.902)" fill="#94eb91"/>
+        <circle id="Ellipse_174" data-name="Ellipse 174" cx="2.988" cy="2.988" r="2.988" transform="translate(1308.948 4710.108)" fill="#94eb91"/>
+        <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.988" cy="2.988" r="2.988" transform="translate(1344.805 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_145" data-name="Ellipse 145" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4545.768)" fill="#94eb91"/>
+        <ellipse id="Ellipse_45" data-name="Ellipse 45" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4490.49)" fill="#94eb91"/>
+        <ellipse id="Ellipse_109" data-name="Ellipse 109" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4599.552)" fill="#94eb91"/>
+        <ellipse id="Ellipse_181" data-name="Ellipse 181" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4672.758)" fill="#94eb91"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.988" cy="2.988" r="2.988" transform="translate(1344.805 4454.633)" fill="#94eb91"/>
+        <ellipse id="Ellipse_131" data-name="Ellipse 131" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4563.696)" fill="#94eb91"/>
+        <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4508.417)" fill="#94eb91"/>
+        <ellipse id="Ellipse_110" data-name="Ellipse 110" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4618.974)" fill="#94eb91"/>
+        <circle id="Ellipse_182" data-name="Ellipse 182" cx="2.988" cy="2.988" r="2.988" transform="translate(1344.805 4692.18)" fill="#94eb91"/>
+        <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4472.562)" fill="#94eb91"/>
+        <ellipse id="Ellipse_115" data-name="Ellipse 115" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4581.624)" fill="#94eb91"/>
+        <ellipse id="Ellipse_183" data-name="Ellipse 183" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4654.83)" fill="#94eb91"/>
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="2.988" cy="2.988" r="2.988" transform="translate(1344.805 4526.346)" fill="#94eb91"/>
+        <ellipse id="Ellipse_111" data-name="Ellipse 111" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1344.805 4636.902)" fill="#94eb91"/>
+        <circle id="Ellipse_184" data-name="Ellipse 184" cx="2.988" cy="2.988" r="2.988" transform="translate(1344.805 4710.108)" fill="#94eb91"/>
+        <ellipse id="Ellipse_53" data-name="Ellipse 53" cx="2.241" cy="2.988" rx="2.241" ry="2.988" transform="translate(1400.083 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_147" data-name="Ellipse 147" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4545.768)" fill="#94eb91"/>
+        <ellipse id="Ellipse_61" data-name="Ellipse 61" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4490.49)" fill="#94eb91"/>
+        <ellipse id="Ellipse_136" data-name="Ellipse 136" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4599.552)" fill="#94eb91"/>
+        <ellipse id="Ellipse_197" data-name="Ellipse 197" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4672.758)" fill="#94eb91"/>
+        <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="2.241" cy="2.988" rx="2.241" ry="2.988" transform="translate(1400.083 4454.633)" fill="#94eb91"/>
+        <ellipse id="Ellipse_137" data-name="Ellipse 137" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4563.696)" fill="#94eb91"/>
+        <ellipse id="Ellipse_74" data-name="Ellipse 74" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4508.417)" fill="#94eb91"/>
+        <ellipse id="Ellipse_138" data-name="Ellipse 138" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4618.974)" fill="#94eb91"/>
+        <ellipse id="Ellipse_198" data-name="Ellipse 198" cx="2.241" cy="2.988" rx="2.241" ry="2.988" transform="translate(1400.083 4692.18)" fill="#94eb91"/>
+        <ellipse id="Ellipse_62" data-name="Ellipse 62" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4472.562)" fill="#94eb91"/>
+        <ellipse id="Ellipse_139" data-name="Ellipse 139" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4581.624)" fill="#94eb91"/>
+        <ellipse id="Ellipse_199" data-name="Ellipse 199" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4654.83)" fill="#94eb91"/>
+        <ellipse id="Ellipse_90" data-name="Ellipse 90" cx="2.241" cy="2.988" rx="2.241" ry="2.988" transform="translate(1400.083 4526.346)" fill="#94eb91"/>
+        <ellipse id="Ellipse_140" data-name="Ellipse 140" cx="2.241" cy="3.735" rx="2.241" ry="3.735" transform="translate(1400.083 4636.902)" fill="#94eb91"/>
+        <ellipse id="Ellipse_200" data-name="Ellipse 200" cx="2.241" cy="2.988" rx="2.241" ry="2.988" transform="translate(1400.083 4710.108)" fill="#94eb91"/>
+        <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.988" cy="2.988" r="2.988" transform="translate(1325.383 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_149" data-name="Ellipse 149" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4545.768)" fill="#94eb91"/>
+        <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4490.49)" fill="#94eb91"/>
+        <ellipse id="Ellipse_106" data-name="Ellipse 106" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4599.552)" fill="#94eb91"/>
+        <ellipse id="Ellipse_177" data-name="Ellipse 177" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4672.758)" fill="#94eb91"/>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="2.988" cy="2.988" r="2.988" transform="translate(1325.383 4454.633)" fill="#94eb91"/>
+        <ellipse id="Ellipse_134" data-name="Ellipse 134" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4563.696)" fill="#94eb91"/>
+        <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4508.417)" fill="#94eb91"/>
+        <ellipse id="Ellipse_107" data-name="Ellipse 107" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4618.974)" fill="#94eb91"/>
+        <circle id="Ellipse_178" data-name="Ellipse 178" cx="2.988" cy="2.988" r="2.988" transform="translate(1325.383 4692.18)" fill="#94eb91"/>
+        <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4472.562)" fill="#94eb91"/>
+        <ellipse id="Ellipse_118" data-name="Ellipse 118" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4581.624)" fill="#94eb91"/>
+        <ellipse id="Ellipse_179" data-name="Ellipse 179" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4654.83)" fill="#94eb91"/>
+        <circle id="Ellipse_44" data-name="Ellipse 44" cx="2.988" cy="2.988" r="2.988" transform="translate(1325.383 4526.346)" fill="#94eb91"/>
+        <ellipse id="Ellipse_108" data-name="Ellipse 108" cx="2.988" cy="3.735" rx="2.988" ry="3.735" transform="translate(1325.383 4636.902)" fill="#94eb91"/>
+        <circle id="Ellipse_180" data-name="Ellipse 180" cx="2.988" cy="2.988" r="2.988" transform="translate(1325.383 4710.108)" fill="#94eb91"/>
+        <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1362.733 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_150" data-name="Ellipse 150" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4545.768)" fill="#94eb91"/>
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4490.49)" fill="#94eb91"/>
+        <circle id="Ellipse_119" data-name="Ellipse 119" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4599.552)" fill="#94eb91"/>
+        <circle id="Ellipse_185" data-name="Ellipse 185" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4672.758)" fill="#94eb91"/>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1362.733 4454.633)" fill="#94eb91"/>
+        <circle id="Ellipse_135" data-name="Ellipse 135" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4563.696)" fill="#94eb91"/>
+        <circle id="Ellipse_49" data-name="Ellipse 49" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4508.417)" fill="#94eb91"/>
+        <circle id="Ellipse_120" data-name="Ellipse 120" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4618.974)" fill="#94eb91"/>
+        <ellipse id="Ellipse_186" data-name="Ellipse 186" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1362.733 4692.18)" fill="#94eb91"/>
+        <circle id="Ellipse_26" data-name="Ellipse 26" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4472.562)" fill="#94eb91"/>
+        <circle id="Ellipse_121" data-name="Ellipse 121" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4581.624)" fill="#94eb91"/>
+        <circle id="Ellipse_187" data-name="Ellipse 187" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4654.83)" fill="#94eb91"/>
+        <ellipse id="Ellipse_50" data-name="Ellipse 50" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1362.733 4526.346)" fill="#94eb91"/>
+        <circle id="Ellipse_122" data-name="Ellipse 122" cx="3.735" cy="3.735" r="3.735" transform="translate(1362.733 4636.902)" fill="#94eb91"/>
+        <ellipse id="Ellipse_188" data-name="Ellipse 188" cx="3.735" cy="2.988" rx="3.735" ry="2.988" transform="translate(1362.733 4710.108)" fill="#94eb91"/>
+      </g>
+      <path id="Path_10486" data-name="Path 10486" d="M2828.243,4664.94c-74.717-25-130.878-66.075-257.85-62.791s-156.7,84.393-153.195,155.165,40.564,188.749,153.195,190.5,207.266-37.748,277.535-36.2,98.63,41.79,196.023,36.2,124.242-88.353,122.1-149.29-24.753-132.008-122.1-135.584S2902.96,4689.941,2828.243,4664.94Z" transform="translate(-2233.667 -26.856)" fill="url(#linear-gradient-2)"/>
+      <g id="Group_150" data-name="Group 150" transform="translate(4951.206 3615.096) rotate(90)" opacity="0.541">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="2.09" cy="2.09" r="2.09" transform="translate(1235.742 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_141" data-name="Ellipse 141" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_51-2" data-name="Ellipse 51" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1337.101 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_142-2" data-name="Ellipse 142" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_99" data-name="Ellipse 99" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_157" data-name="Ellipse 157" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_55-2" data-name="Ellipse 55" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4474.323)" fill="#94eb91"/>
+        <circle id="Ellipse_123-2" data-name="Ellipse 123" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4550.604)" fill="#94eb91"/>
+        <circle id="Ellipse_189-2" data-name="Ellipse 189" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="2.09" cy="2.09" r="2.09" transform="translate(1235.742 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_127" data-name="Ellipse 127" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_52-2" data-name="Ellipse 52" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1337.101 4449.245)" fill="#94eb91"/>
+        <circle id="Ellipse_128-2" data-name="Ellipse 128" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_93" data-name="Ellipse 93" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4564.188)" fill="#94eb91"/>
+        <circle id="Ellipse_159" data-name="Ellipse 159" cx="2.09" cy="2.09" r="2.09" transform="translate(1235.742 4615.389)" fill="#94eb91"/>
+        <circle id="Ellipse_67-2" data-name="Ellipse 67" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4486.862)" fill="#94eb91"/>
+        <circle id="Ellipse_124-2" data-name="Ellipse 124" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_190-2" data-name="Ellipse 190" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1337.101 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_112" data-name="Ellipse 112" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_158" data-name="Ellipse 158" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_56-2" data-name="Ellipse 56" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4461.784)" fill="#94eb91"/>
+        <circle id="Ellipse_125-2" data-name="Ellipse 125" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4538.064)" fill="#94eb91"/>
+        <circle id="Ellipse_191-2" data-name="Ellipse 191" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_29" data-name="Ellipse 29" cx="2.09" cy="2.09" r="2.09" transform="translate(1235.742 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_91" data-name="Ellipse 91" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1235.742 4576.727)" fill="#94eb91"/>
+        <circle id="Ellipse_172" data-name="Ellipse 172" cx="2.09" cy="2.09" r="2.09" transform="translate(1235.742 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_86-2" data-name="Ellipse 86" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1337.101 4499.401)" fill="#94eb91"/>
+        <circle id="Ellipse_126-2" data-name="Ellipse 126" cx="2.612" cy="2.612" r="2.612" transform="translate(1337.101 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_192-2" data-name="Ellipse 192" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1337.101 4627.928)" fill="#94eb91"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.09" cy="2.09" r="2.09" transform="translate(1260.821 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_143" data-name="Ellipse 143" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_57-2" data-name="Ellipse 57" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1362.179 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_151-2" data-name="Ellipse 151" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_100" data-name="Ellipse 100" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_160" data-name="Ellipse 160" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_58-2" data-name="Ellipse 58" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4474.323)" fill="#94eb91"/>
+        <circle id="Ellipse_152-2" data-name="Ellipse 152" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4550.604)" fill="#94eb91"/>
+        <circle id="Ellipse_193-2" data-name="Ellipse 193" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.09" cy="2.09" r="2.09" transform="translate(1260.821 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_129" data-name="Ellipse 129" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_59-2" data-name="Ellipse 59" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1362.179 4449.245)" fill="#94eb91"/>
+        <circle id="Ellipse_153-2" data-name="Ellipse 153" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4564.188)" fill="#94eb91"/>
+        <circle id="Ellipse_161" data-name="Ellipse 161" cx="2.09" cy="2.09" r="2.09" transform="translate(1260.821 4615.389)" fill="#94eb91"/>
+        <circle id="Ellipse_68-2" data-name="Ellipse 68" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4486.862)" fill="#94eb91"/>
+        <circle id="Ellipse_154-2" data-name="Ellipse 154" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_194-2" data-name="Ellipse 194" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1362.179 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_113" data-name="Ellipse 113" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_162" data-name="Ellipse 162" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_60-2" data-name="Ellipse 60" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4461.784)" fill="#94eb91"/>
+        <circle id="Ellipse_155-2" data-name="Ellipse 155" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4538.064)" fill="#94eb91"/>
+        <circle id="Ellipse_195-2" data-name="Ellipse 195" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_32" data-name="Ellipse 32" cx="2.09" cy="2.09" r="2.09" transform="translate(1260.821 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1260.821 4576.727)" fill="#94eb91"/>
+        <circle id="Ellipse_173" data-name="Ellipse 173" cx="2.09" cy="2.09" r="2.09" transform="translate(1260.821 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_87-2" data-name="Ellipse 87" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1362.179 4499.401)" fill="#94eb91"/>
+        <circle id="Ellipse_156-2" data-name="Ellipse 156" cx="2.612" cy="2.612" r="2.612" transform="translate(1362.179 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_196-2" data-name="Ellipse 196" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1362.179 4627.928)" fill="#94eb91"/>
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="2.09" cy="2.09" r="2.09" transform="translate(1286.944 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_144-2" data-name="Ellipse 144" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_39-2" data-name="Ellipse 39" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_101-2" data-name="Ellipse 101" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_166-2" data-name="Ellipse 166" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_13-2" data-name="Ellipse 13" cx="2.09" cy="2.09" r="2.09" transform="translate(1286.944 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_130-2" data-name="Ellipse 130" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_40-2" data-name="Ellipse 40" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_102-2" data-name="Ellipse 102" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4564.188)" fill="#94eb91"/>
+        <circle id="Ellipse_167-2" data-name="Ellipse 167" cx="2.09" cy="2.09" r="2.09" transform="translate(1286.944 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_21-2" data-name="Ellipse 21" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_114-2" data-name="Ellipse 114" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_168-2" data-name="Ellipse 168" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_41-2" data-name="Ellipse 41" cx="2.09" cy="2.09" r="2.09" transform="translate(1286.944 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_103-2" data-name="Ellipse 103" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1286.944 4576.727)" fill="#94eb91"/>
+        <circle id="Ellipse_174-2" data-name="Ellipse 174" cx="2.09" cy="2.09" r="2.09" transform="translate(1286.944 4627.928)" fill="#94eb91"/>
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="2.09" cy="2.09" r="2.09" transform="translate(1312.022 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_145-2" data-name="Ellipse 145" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_45-2" data-name="Ellipse 45" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_109-2" data-name="Ellipse 109" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_181-2" data-name="Ellipse 181" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="2.09" cy="2.09" r="2.09" transform="translate(1312.022 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_131-2" data-name="Ellipse 131" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_46-2" data-name="Ellipse 46" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_110-2" data-name="Ellipse 110" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4564.188)" fill="#94eb91"/>
+        <circle id="Ellipse_182-2" data-name="Ellipse 182" cx="2.09" cy="2.09" r="2.09" transform="translate(1312.022 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_22-2" data-name="Ellipse 22" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_115-2" data-name="Ellipse 115" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_183-2" data-name="Ellipse 183" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_47-2" data-name="Ellipse 47" cx="2.09" cy="2.09" r="2.09" transform="translate(1312.022 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_111-2" data-name="Ellipse 111" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1312.022 4576.727)" fill="#94eb91"/>
+        <circle id="Ellipse_184-2" data-name="Ellipse 184" cx="2.09" cy="2.09" r="2.09" transform="translate(1312.022 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1249.326 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_146" data-name="Ellipse 146" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_53-2" data-name="Ellipse 53" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1350.685 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_147-2" data-name="Ellipse 147" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_104" data-name="Ellipse 104" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_163" data-name="Ellipse 163" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4601.805)" fill="#94eb91"/>
+        <ellipse id="Ellipse_61-2" data-name="Ellipse 61" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_136-2" data-name="Ellipse 136" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_197-2" data-name="Ellipse 197" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4601.805)" fill="#94eb91"/>
+        <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1249.326 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_132" data-name="Ellipse 132" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_54-2" data-name="Ellipse 54" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1350.685 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_137-2" data-name="Ellipse 137" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_96" data-name="Ellipse 96" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_164" data-name="Ellipse 164" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1249.326 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_74-2" data-name="Ellipse 74" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_138-2" data-name="Ellipse 138" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_198-2" data-name="Ellipse 198" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1350.685 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_116" data-name="Ellipse 116" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_165" data-name="Ellipse 165" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4589.266)" fill="#94eb91"/>
+        <ellipse id="Ellipse_62-2" data-name="Ellipse 62" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_139-2" data-name="Ellipse 139" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_199-2" data-name="Ellipse 199" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4589.266)" fill="#94eb91"/>
+        <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1249.326 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_92" data-name="Ellipse 92" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1249.326 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_175" data-name="Ellipse 175" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1249.326 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_90-2" data-name="Ellipse 90" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1350.685 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_140-2" data-name="Ellipse 140" cx="1.567" cy="2.612" rx="1.567" ry="2.612" transform="translate(1350.685 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_200-2" data-name="Ellipse 200" cx="1.567" cy="2.09" rx="1.567" ry="2.09" transform="translate(1350.685 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1273.36 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_148" data-name="Ellipse 148" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4512.986)" fill="#94eb91"/>
+        <circle id="Ellipse_36" data-name="Ellipse 36" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4474.323)" fill="#94eb91"/>
+        <circle id="Ellipse_105" data-name="Ellipse 105" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4550.604)" fill="#94eb91"/>
+        <circle id="Ellipse_169" data-name="Ellipse 169" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4601.805)" fill="#94eb91"/>
+        <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1273.36 4449.245)" fill="#94eb91"/>
+        <circle id="Ellipse_133" data-name="Ellipse 133" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4525.525)" fill="#94eb91"/>
+        <circle id="Ellipse_37" data-name="Ellipse 37" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4486.862)" fill="#94eb91"/>
+        <circle id="Ellipse_97" data-name="Ellipse 97" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_170" data-name="Ellipse 170" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1273.36 4615.389)" fill="#94eb91"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4461.784)" fill="#94eb91"/>
+        <circle id="Ellipse_117" data-name="Ellipse 117" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4538.064)" fill="#94eb91"/>
+        <circle id="Ellipse_171" data-name="Ellipse 171" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4589.266)" fill="#94eb91"/>
+        <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1273.36 4499.401)" fill="#94eb91"/>
+        <circle id="Ellipse_98" data-name="Ellipse 98" cx="2.612" cy="2.612" r="2.612" transform="translate(1273.36 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_176" data-name="Ellipse 176" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1273.36 4627.928)" fill="#94eb91"/>
+        <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="2.09" cy="2.09" r="2.09" transform="translate(1298.438 4436.706)" fill="#94eb91"/>
+        <ellipse id="Ellipse_149-2" data-name="Ellipse 149" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4512.986)" fill="#94eb91"/>
+        <ellipse id="Ellipse_42-2" data-name="Ellipse 42" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4474.323)" fill="#94eb91"/>
+        <ellipse id="Ellipse_106-2" data-name="Ellipse 106" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4550.604)" fill="#94eb91"/>
+        <ellipse id="Ellipse_177-2" data-name="Ellipse 177" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4601.805)" fill="#94eb91"/>
+        <circle id="Ellipse_17-2" data-name="Ellipse 17" cx="2.09" cy="2.09" r="2.09" transform="translate(1298.438 4449.245)" fill="#94eb91"/>
+        <ellipse id="Ellipse_134-2" data-name="Ellipse 134" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4525.525)" fill="#94eb91"/>
+        <ellipse id="Ellipse_43-2" data-name="Ellipse 43" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4486.862)" fill="#94eb91"/>
+        <ellipse id="Ellipse_107-2" data-name="Ellipse 107" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4564.188)" fill="#94eb91"/>
+        <circle id="Ellipse_178-2" data-name="Ellipse 178" cx="2.09" cy="2.09" r="2.09" transform="translate(1298.438 4615.389)" fill="#94eb91"/>
+        <ellipse id="Ellipse_25-2" data-name="Ellipse 25" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4461.784)" fill="#94eb91"/>
+        <ellipse id="Ellipse_118-2" data-name="Ellipse 118" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4538.064)" fill="#94eb91"/>
+        <ellipse id="Ellipse_179-2" data-name="Ellipse 179" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4589.266)" fill="#94eb91"/>
+        <circle id="Ellipse_44-2" data-name="Ellipse 44" cx="2.09" cy="2.09" r="2.09" transform="translate(1298.438 4499.401)" fill="#94eb91"/>
+        <ellipse id="Ellipse_108-2" data-name="Ellipse 108" cx="2.09" cy="2.612" rx="2.09" ry="2.612" transform="translate(1298.438 4576.727)" fill="#94eb91"/>
+        <circle id="Ellipse_180-2" data-name="Ellipse 180" cx="2.09" cy="2.09" r="2.09" transform="translate(1298.438 4627.928)" fill="#94eb91"/>
+        <ellipse id="Ellipse_9-2" data-name="Ellipse 9" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1324.562 4436.706)" fill="#94eb91"/>
+        <circle id="Ellipse_150-2" data-name="Ellipse 150" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4512.986)" fill="#94eb91"/>
+        <circle id="Ellipse_48-2" data-name="Ellipse 48" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4474.323)" fill="#94eb91"/>
+        <circle id="Ellipse_119-2" data-name="Ellipse 119" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4550.604)" fill="#94eb91"/>
+        <circle id="Ellipse_185-2" data-name="Ellipse 185" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4601.805)" fill="#94eb91"/>
+        <ellipse id="Ellipse_18-2" data-name="Ellipse 18" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1324.562 4449.245)" fill="#94eb91"/>
+        <circle id="Ellipse_135-2" data-name="Ellipse 135" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4525.525)" fill="#94eb91"/>
+        <circle id="Ellipse_49-2" data-name="Ellipse 49" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4486.862)" fill="#94eb91"/>
+        <circle id="Ellipse_120-2" data-name="Ellipse 120" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4564.188)" fill="#94eb91"/>
+        <ellipse id="Ellipse_186-2" data-name="Ellipse 186" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1324.562 4615.389)" fill="#94eb91"/>
+        <circle id="Ellipse_26-2" data-name="Ellipse 26" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4461.784)" fill="#94eb91"/>
+        <circle id="Ellipse_121-2" data-name="Ellipse 121" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4538.064)" fill="#94eb91"/>
+        <circle id="Ellipse_187-2" data-name="Ellipse 187" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4589.266)" fill="#94eb91"/>
+        <ellipse id="Ellipse_50-2" data-name="Ellipse 50" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1324.562 4499.401)" fill="#94eb91"/>
+        <circle id="Ellipse_122-2" data-name="Ellipse 122" cx="2.612" cy="2.612" r="2.612" transform="translate(1324.562 4576.727)" fill="#94eb91"/>
+        <ellipse id="Ellipse_188-2" data-name="Ellipse 188" cx="2.612" cy="2.09" rx="2.612" ry="2.09" transform="translate(1324.562 4627.928)" fill="#94eb91"/>
+      </g>
+      <circle id="Ellipse_224" data-name="Ellipse 224" cx="38" cy="38" r="38" transform="translate(917 4665)" fill="url(#linear-gradient-3)"/>
+      <circle id="Ellipse_240" data-name="Ellipse 240" cx="64.5" cy="64.5" r="64.5" transform="translate(150 4584)" fill="url(#linear-gradient-3)"/>
+      <circle id="Ellipse_225" data-name="Ellipse 225" cx="16" cy="16" r="16" transform="translate(872 4724)" fill="url(#linear-gradient-3)"/>
+      <circle id="Ellipse_226" data-name="Ellipse 226" cx="16" cy="16" r="16" transform="translate(590 4917)" fill="url(#linear-gradient-3)"/>
+      <circle id="Ellipse_227" data-name="Ellipse 227" cx="12" cy="12" r="12" transform="translate(187 4825)" fill="url(#linear-gradient-7)"/>
+    </g>
+  </g>
+</svg>

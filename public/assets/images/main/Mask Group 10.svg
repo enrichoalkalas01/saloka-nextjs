@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1924" height="930" viewBox="0 0 1924 930">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10292" data-name="Rectangle 10292" width="1924" height="930" transform="translate(63 1517)" fill="rgba(245,245,245,0.38)" stroke="#45b076" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.762" y1="0.642" x2="0.615" y2="-0.022" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.97" stop-color="#f77a41"/>
+      <stop offset="1" stop-color="#decf8f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.852" y1="0.635" x2="0.802" y2="0.443" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fffbea"/>
+      <stop offset="1" stop-color="#f77a41"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62c65e"/>
+      <stop offset="1" stop-color="#299225"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(-63 -1517)" clip-path="url(#clip-path)">
+    <path id="Path_465" data-name="Path 465" d="M493.271,2047.89s1429.144-273.028,1428.12-848.327-.51,1029.839-.51,1029.839Z" transform="translate(66 287.938)" opacity="0.342" fill="url(#linear-gradient)"/>
+    <path id="Path_466" data-name="Path 466" d="M493.271,2047.89s1429.144-273.028,1428.12-848.327-.51,1029.839-.51,1029.839Z" transform="translate(101 328.938)" opacity="0.112" fill="url(#linear-gradient-2)"/>
+    <path id="Path_10477" data-name="Path 10477" d="M2168,2149.879s151.935-122.924,318.21-111.219,271.789,115.832,352.1,115.832,89.819-69.417,167.656-65.66,84.042,65.66,147.484,65.66,246.352,64.219,441.148-57.43,369.609,29.983,501.609-198.648,5.625,1630.859,5.625,1630.859h-1948.9Z" transform="translate(-2107 193.005)" opacity="0.165" fill="url(#linear-gradient-3)"/>
+    <path id="Path_10475" data-name="Path 10475" d="M2168,2149.879s151.935-122.924,318.21-111.219,271.789,115.832,352.1,115.832,89.819-69.417,167.656-65.66,84.042,65.66,147.484,65.66,246.352,64.219,441.148-57.43,369.609,29.983,501.609-198.648,5.625,1630.859,5.625,1630.859h-1948.9Z" transform="translate(-2107 209.938)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

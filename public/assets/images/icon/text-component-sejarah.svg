@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535" height="348.245" viewBox="0 0 535 348.245">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.345" y1="0.062" x2="0.473" y2="1.158" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53b84f"/>
+      <stop offset="1" stop-color="#327c2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.422" x2="1" y2="0.88" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53b84f"/>
+      <stop offset="1" stop-color="#509b4d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4322" data-name="Group 4322" transform="translate(-973 -1576.003)">
+    <path id="Path_10488" data-name="Path 10488" d="M254.343,51.18C208.1,39.109,184.5-7.4,103.908,1.009S.916,62.142.03,106.683s17.413,117.233,88.7,112.727,87.907-35.443,132.362-37.969S326.82,204.19,388.773,195.8s82.6-62.017,83.918-100.412S462.8,13.22,401.283,15.813,300.585,63.251,254.343,51.18Z" transform="translate(985.176 1714.234) rotate(-17)" fill="#74e06f" opacity="0.446"/>
+    <path id="Path_10487" data-name="Path 10487" d="M232.507,72.92C188.443,54.3,162.6-.828,88.255.009S-2.57,58.064.306,108.336,26.262,242.778,92.268,245.347s78.913-30.626,120.1-28.7S312.71,253.739,369.7,250.918,441.465,189.67,439.5,146.4,423.469,52.411,366.4,48.728,276.57,91.543,232.507,72.92Z" transform="matrix(0.996, 0.087, -0.087, 0.996, 1019.537, 1601.53)" fill="#2d7c29" opacity="0.576"/>
+    <path id="Path_10486" data-name="Path 10486" d="M2660.544,4651.641c-44.254-19.721-77.518-52.122-152.721-49.531s-92.812,66.572-90.734,122.4,24.025,148.89,90.734,150.273,122.761-29.776,164.38-28.556,58.417,32.965,116.1,28.556,73.586-69.7,72.318-117.764-14.661-104.131-72.318-106.953S2704.8,4671.362,2660.544,4651.641Z" transform="translate(-1392.691 -3000.856)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_224" data-name="Ellipse 224" cx="30" cy="30" r="30" transform="translate(1448 1788)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_240" data-name="Ellipse 240" cx="51" cy="51" r="51" transform="translate(973 1608)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_225" data-name="Ellipse 225" cx="12.5" cy="12.5" r="12.5" transform="translate(1413 1835)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

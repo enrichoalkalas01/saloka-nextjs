@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="683.211" height="946.367" viewBox="0 0 683.211 946.367">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #f77a41;
+      }
+
+      .cls-1 {
+        opacity: 0.494;
+      }
+
+      .cls-2 {
+        opacity: 0.322;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 35px;
+      }
+
+      .cls-4 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        opacity: 0.265;
+      }
+
+      .cls-5 {
+        font-family: Montserrat-Light, Montserrat;
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        opacity: 0.117;
+      }
+
+      .cls-10, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        stroke: #bc4b17;
+        stroke-width: 3px;
+        opacity: 0.661;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.456" x2="0.51" y2="0.979" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f77a41"/>
+      <stop offset="1" stop-color="#ad4718"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4165" data-name="Group 4165" transform="translate(19.969 -1120.622)">
+    <g id="Group_3465" data-name="Group 3465" transform="translate(0 -60)">
+      <path id="Path_10478" data-name="Path 10478" class="cls-1" d="M-.318,1158.734s673.041,209.61,673.56,456.311S-9.969,2096.325-9.969,2096.325Z" transform="translate(-10 30.664)"/>
+      <path id="Path_10479" data-name="Path 10479" class="cls-2" d="M-32.431,1132.094s543.816,201,544.259,411.192-546.682,434.05-546.682,434.05Z" transform="translate(21.578 48.528)"/>
+      <path id="Path_10480" data-name="Path 10480" class="cls-3" d="M-1.746,1158.734s517.491,179.029,517.934,389.219S-9.969,1957.56-9.969,1957.56Z" transform="translate(-10 30.664)"/>
+    </g>
+    <g id="Group_3467" data-name="Group 3467" transform="translate(22 41)">
+      <text id="_" data-name="+" class="cls-4" transform="translate(214 1299)"><tspan x="0" y="34">+</tspan></text>
+      <text id="_2" data-name="+" class="cls-5" transform="translate(61 1647)"><tspan x="0" y="34">+</tspan></text>
+      <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-6" cx="121" cy="121" r="121" transform="translate(158 1410)"/>
+      <g id="Ellipse_18" data-name="Ellipse 18" class="cls-7" transform="translate(83 1383)">
+        <circle class="cls-9" cx="75" cy="75" r="75"/>
+        <circle class="cls-10" cx="75" cy="75" r="74"/>
+      </g>
+      <path id="Path_9640" data-name="Path 9640" class="cls-8" d="M180.885,559.548s2.892,19.746,11.168,19.548,10.152-19.451,19.035-19.486,4.381,19.325,18.117,19.184,9.047-20.012,19.633-19.792,1.1,15.587,16.1,20.095" transform="translate(-142.977 695.542)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="625" viewBox="0 0 1920 625">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10205" data-name="Rectangle 10205" width="1920" height="625" transform="translate(0 51)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbb769"/>
+      <stop offset="1" stop-color="#fb9a4e"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(0 -51)" clip-path="url(#clip-path)">
+    <g id="Group_3715" data-name="Group 3715">
+      <path id="Path_10492" data-name="Path 10492" d="M2141.755,4988.615s110.74,115.281,372.573,117.4,327.469-128.152,598.258-126.707,682.756,194.562,1001.2,74.541-23.54-529.678-23.54-529.678H2173Z" transform="translate(-2173 -4439)" fill="#fb9a4e" opacity="0.108"/>
+      <path id="Path_10485" data-name="Path 10485" d="M2168.906,5035.891s58.188,73.989,320.021,76.109,444.368-101.923,715.157-100.478,604.281,157.319,922.729,37.3-36.562-524.648-36.562-524.648H2173Z" transform="translate(-2173 -4473)" fill="url(#linear-gradient)"/>
+      <path id="DSC05768" d="M3232.627,4737.57c-214.3,104.154,57.159,245.092,57.159,245.092s.005.009,3.709,1.625c45.824,20.085,529.836,178.914,833.317,64.534,318.448-120.021-36.562-524.648-36.562-524.648l-706.392-.077S3446.925,4633.416,3232.627,4737.57Z" transform="translate(-2193 -4473)" fill="#f58848" opacity="0.363"/>
+      <ellipse id="Ellipse_236" data-name="Ellipse 236" cx="290" cy="290.5" rx="290" ry="290.5" transform="translate(53)" fill="#c4c4c4" opacity="0.116"/>
+      <g id="Group_3484" data-name="Group 3484" transform="translate(445.123 121.116)">
+        <path id="Path_10246" data-name="Path 10246" d="M528.28,0,0,303.858" transform="matrix(1, -0.017, 0.017, 1, 0, 14.574)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.237"/>
+        <path id="Path_10247" data-name="Path 10247" d="M4260.838,3056.773l78.691-45.871" transform="translate(-4248.985 -2728.133)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+        <path id="Path_10250" data-name="Path 10250" d="M4260.838,3056.773l78.691-45.871" transform="translate(-4040.851 -2847.969)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+        <path id="Path_10252" data-name="Path 10252" d="M4260.838,3056.773l78.691-45.871" transform="translate(-3855.842 -2957.292)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+        <path id="Path_10248" data-name="Path 10248" d="M4260.838,3056.773l78.691-45.871" transform="translate(-4157.532 -2781.744)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+        <path id="Path_10249" data-name="Path 10249" d="M4260.838,3056.773l78.691-45.871" transform="translate(-3949.398 -2901.579)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+        <path id="Path_10251" data-name="Path 10251" d="M4260.838,3056.773l78.691-45.871" transform="translate(-3764.389 -3010.902)" fill="none" stroke="#f58848" stroke-linecap="round" stroke-width="3" opacity="0.222"/>
+      </g>
+    </g>
+  </g>
+</svg>

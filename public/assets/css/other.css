@@ -1,0 +1,283 @@
+footer {
+		width: 100%;
+		height: auto;
+		position: relative;
+	}
+
+	footer .logo-footer {
+		width: 350px;
+		height: 350px;
+		background-size: 100%;
+		background-image: url('../images/icon/footer-logo.svg');
+		background-repeat: no-repeat;
+		background-position: center;
+		position: absolute;
+		z-index: 1;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -35%);
+	}
+
+	footer .main-box {
+		width: 100%;
+		height: auto;
+		position: relative;
+	}
+
+	footer .main-box .top-bar {
+		width: 100%;
+		height: 425px;
+		background-image: url('../images/icon/footer-top-bg-3.svg');
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-position: center;
+		position: relative;
+	}
+
+	footer .main-box .bottom-bar {
+		width: 100%;
+		height: 200px;
+		background-color: #383838;
+	}
+
+	footer .adder-bottom {
+		width: 100%;
+		height: auto;
+		padding: 15px 50px;
+		display: flex;
+		flex-direction: row;
+		flex-basis: 50%;
+	}
+
+	footer .adder-bottom .cp-1 {
+		width: 100%;
+		margin: 0;
+	}
+
+	footer .adder-bottom .cp-2 {
+		width: 100%;
+		text-align: right;
+		margin: 0;
+	}
+
+	footer .main-box .top-bar .hidden-block-footer {
+		width: 100%;
+		height: 75%;
+		/*background-color: #fefefe;*/
+		/*opacity: .5;*/
+	}
+
+	footer .main-box .bottom-bar .hidden-block-footer {
+		width: 100%;
+		height: 40%;
+		/*opacity: .5;*/
+		/*background: #fefefe;*/
+	}
+
+	footer .main-box .top-bar .content-bar-f {
+		width: 100%;
+		height: 25%;
+		padding: 25px 10%;
+		color: #fff;
+		display: flex;
+		flex-basis: 50%;
+		flex-direction: row;
+	}
+
+	footer .left-content-f {
+		width: 100%;
+		height: auto;
+	}
+
+	footer .right-content-f {
+		width: 100%;
+		height: auto;
+		padding-left: 20%;
+		display: flex;
+		position: relative;
+	}
+
+	footer a {
+		text-decoration: none;
+		color: unset;
+		margin: 0 50px;
+	}
+
+	footer a:hover {
+		text-decoration: none;
+		color: unset;
+	}
+
+	footer .left-content-f a {
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 55px;
+	}
+
+	footer .right-content-f .email-btn {
+		padding: 10px 25px;
+		outline: none;
+		border: none;
+		border-radius: 25px;
+		color: #383838;
+		width: 65%;
+	}
+
+	footer .right-content-f p {
+		margin-right: 25px;
+		line-height: 55px;
+		/*font-weight: 700;*/
+		font-size: 16px;
+	}
+
+	footer .btn-email-f {
+		width: 35px;
+		height: 35px;
+		background-image: url('../images/icon/btn-green-email.svg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		position: absolute;
+		right: 0;
+		top: 0;
+		transform: translate(-250%, 30%);
+		cursor: pointer;
+	}
+
+	footer .dragon-logo-footer {
+		content: '';
+		width: 300px;
+		height: 450px;
+		background-image: url('../images/icon/dragon-logo-footer.svg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		position: absolute;
+		top: 0%;
+		right: 0%;
+		transform: translate(-85%, -30%);
+		z-index: 3;
+	}
+
+	footer .main-box .bottom-bar .content-bar-f {
+		width: 100%;
+		height: 25%;
+		padding: 25px 10%;
+		color: #fff;
+		display: flex;
+		flex-basis: 50%;
+		flex-direction: row;
+	}
+
+	footer .footer-contact {
+		line-height: 75px;
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+
+
+@media screen and (max-width: 1280px) {
+	/*footer .main-box .top-bar {
+		height: 280px;
+	}
+
+	footer .logo-footer {
+		width: 250px;
+		height: 250px;
+	}
+
+	footer .main-box .bottom-bar {
+		height: 150px;
+	}
+
+	footer .main-box .bottom-bar .hidden-block-footer {
+		height: 25%;
+	}
+
+	footer a {
+		margin: 0 18px;
+	}
+
+	footer .dragon-logo-footer {
+		width: 195px;
+		height: 270px;
+		transform: translate(-80%, -25%);
+	}
+
+	.cloud-object-2-fph {
+		width: 215px;
+	}
+
+	.cloud-object-1-fph {
+		width: 216px;
+	}
+
+	.object-1 {
+	    transform: translate(125%, 65%);
+	}
+
+	#second-page-home .right-content:after {
+	    right: 25px;
+    	top: 0px;
+	}*/
+}
+
+<!-- NAVIGATION -->
+	<div class="fixed-navbar">
+		<div class="display-flex width-full">
+			<div class="flex-full text-right padding-right-180px">
+				<div class="display-flex width-full">
+					<div class="flex-left">
+						<img class="cart-icon" src="assets/images/main/cart.png">
+						<span>(0)</span>
+					</div>
+					<div class="flex-right">
+						<a class="white" href="#">
+							<span class="cursor-pointer margin-left-30px">Zona</span>
+						</a>
+						<a class="white" href="#">
+							<span class="cursor-pointer margin-left-30px">Hiburan</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="flex-full text-left padding-left-180px">
+				<div class="display-flex width-full">
+					<div class="flex-left">
+						<a class="white" href="#">
+							<span class="cursor-pointer margin-right-30px">Kuliner</span>
+						</a>
+						<a class="white" href="#">
+							<span class="cursor-pointer margin-right-30px">Event</span>
+						</a>
+					</div>
+					<div class="flex-right">
+						<div class="burger-menu">
+							<img src="assets/images/main/menu.png">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="logo-container">
+			<a href="#">
+				<img src="assets/images/main/logo.png">
+			</a>
+		</div>
+	</div>
+	<!-- END NAVIGATION -->
+
+	
+		<!-- Pop Up Loading Screen -->
+		<!-- <div id="popup_loading" class="popup_loading">
+			<h1>Wilujeng Rawuh Ing Saloka</h1>
+			<div class="icon-popup-loading">
+				<h4>Yuk Ikuti Aku!</h4>
+			</div>
+			<div class="icon-popup-bottom-cloud2"></div>
+			<div class="icon-popup-bottom-cloud"></div>
+			<div class="icon-popup-loading-cloud"></div>
+			<div class="icon-popup-loading-cloud2"></div>
+		</div> -->
+
+		

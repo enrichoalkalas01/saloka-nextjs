@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="816" viewBox="0 0 1920 816">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10227" data-name="Rectangle 10227" width="1920" height="816" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" clip-path="url(#clip-path)">
+    <g id="Group_4322" data-name="Group 4322">
+      <path id="Path_10492" data-name="Path 10492" d="M8787.547,647.758s28.823,94.3,656.1,85.555,695.57-441.594,1308.227-94.156-5.117-664.852-5.117-664.852H8801.609Z" transform="translate(-8815 81.695)" fill="#53b84f" opacity="0.238"/>
+      <path id="Path_10491" data-name="Path 10491" d="M8787.547,647.758s28.823,94.3,656.1,85.555,933.8-253.25,1303.109-111.414,0-647.594,0-647.594H8801.609Z" transform="translate(-8815 25.695)" fill="#53b84f"/>
+      <g id="Group_3482" data-name="Group 3482" transform="translate(-30 -1161)">
+        <text id="_" data-name="+" transform="translate(149 1309)" fill="#fff" font-size="35" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.265"><tspan x="0" y="34">+</tspan></text>
+        <text id="_2" data-name="+" transform="translate(61 1647)" fill="#fff" font-size="35" font-family="Montserrat-Light, Montserrat" font-weight="300" opacity="0.265"><tspan x="0" y="34">+</tspan></text>
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="164" cy="164" r="164" transform="translate(158 1324)" fill="#fff" opacity="0.065"/>
+        <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(83 1383)" fill="#53b84f" stroke="#235c21" stroke-width="2" opacity="0.265">
+          <circle cx="75" cy="75" r="75" stroke="none"/>
+          <circle cx="75" cy="75" r="74" fill="none"/>
+        </g>
+        <path id="Path_9640" data-name="Path 9640" d="M180.885,559.548s2.892,19.746,11.168,19.548,10.152-19.451,19.035-19.486,4.381,19.325,18.117,19.184,9.047-20.012,19.633-19.792,1.1,15.587,16.1,20.095" transform="translate(-181.977 695.542)" fill="none" stroke="#c4c4c4" stroke-width="3" opacity="0.661"/>
+      </g>
+      <path id="Path_9829" data-name="Path 9829" d="M180.885,559.614s3.237,22.1,12.5,21.879,11.363-21.771,21.3-21.81,4.9,21.63,20.277,21.472,10.126-22.4,21.974-22.153,1.231,17.446,18.022,22.491" transform="translate(1176.623 -391.359)" fill="none" stroke="#4e904b" stroke-width="5" opacity="0.661"/>
+      <path id="Path_10493" data-name="Path 10493" d="M523.722,583.213H920.4s18.489-37.123-59.717-30.934c0,0,1.427-51.056-42.651-24.761,0,0-18.479-30.524-32.7-7.524,0,0-66.821-80.381-113.74-8.581,0,0-42.662-11.266-45.5,20.985,0,0-51.185-11.063-48.335,27.606C577.755,560.005,529.413,553.824,523.722,583.213Z" transform="translate(1057.168 -96.351)" fill="#fff" opacity="0.152"/>
+      <path id="Path_10494" data-name="Path 10494" d="M523.722,532.6h199.12s9.281-18.635-29.976-15.528c0,0,.716-25.628-21.409-12.429,0,0-9.276-15.322-16.415-3.777,0,0-33.542-40.349-57.094-4.307,0,0-21.415-5.655-22.841,10.534,0,0-25.693-5.553-24.263,13.857C550.845,520.949,526.579,517.847,523.722,532.6Z" transform="translate(386.423 -199.043)" fill="#2f832c" opacity="0.152"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="15.333" viewBox="0 0 16 15.333">
+  <g id="adjust" transform="translate(0 -10.667)">
+    <g id="Group_5924" data-name="Group 5924" transform="translate(0 21.334)">
+      <g id="Group_5923" data-name="Group 5923">
+        <path id="Path_12074" data-name="Path 12074" d="M15.333,353.667H13.558a2.318,2.318,0,0,0-4.449,0H.667a.667.667,0,1,0,0,1.333H9.109a2.318,2.318,0,0,0,4.449,0h1.775a.667.667,0,0,0,0-1.333Zm-4,1.667a1,1,0,1,1,1-1A1,1,0,0,1,11.333,355.333Z" transform="translate(0 -352)" fill="#242424"/>
+      </g>
+    </g>
+    <g id="Group_5926" data-name="Group 5926" transform="translate(0 10.667)">
+      <g id="Group_5925" data-name="Group 5925" transform="translate(0 0)">
+        <path id="Path_12075" data-name="Path 12075" d="M15.333,12.334H13.558a2.318,2.318,0,0,0-4.449,0H.667a.667.667,0,0,0,0,1.333H9.109a2.318,2.318,0,0,0,4.449,0h1.775a.667.667,0,0,0,0-1.333Zm-4,1.667a1,1,0,1,1,1-1A1,1,0,0,1,11.333,14Z" transform="translate(0 -10.667)" fill="#242424"/>
+      </g>
+    </g>
+    <g id="Group_5928" data-name="Group 5928" transform="translate(0 16)">
+      <g id="Group_5927" data-name="Group 5927" transform="translate(0 0)">
+        <path id="Path_12076" data-name="Path 12076" d="M15.333,183H6.891a2.318,2.318,0,0,0-4.449,0H.667a.667.667,0,0,0,0,1.333H2.442a2.318,2.318,0,0,0,4.449,0h8.442a.667.667,0,0,0,0-1.333ZM4.667,184.667a1,1,0,1,1,1-1A1,1,0,0,1,4.667,184.667Z" transform="translate(0 -181.334)" fill="#242424"/>
+      </g>
+    </g>
+  </g>
+</svg>
