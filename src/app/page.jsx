@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 // Components Pages
 import HeroCloud from "@/components/homepages/hero-cloud";
 
@@ -15,7 +17,7 @@ export default function Page() {
                 <section className="w-full relative">
                     {/* Fly Object */}
                     <div className="w-full h-[150px] mb-4 flex justify-end pr-[50px]">
-                        <img
+                        <Image
                             className="w-auto h-full"
                             src="/assets/images/icon/ticket-icon.png"
                         />
@@ -24,7 +26,7 @@ export default function Page() {
                     {/* Content Object */}
                     <div className="w-full h-auto flex gap-4 z-5 pb-12 px-8">
                         <div className="w-full h-auto flex justify-end items-center pr-4 pl-8">
-                            <img
+                            <Image
                                 className="w-full h-auto"
                                 src="/assets/images/image-1.png"
                             />
@@ -38,10 +40,10 @@ export default function Page() {
                                 <p className="mb-4">
                                     Lorem Ipsum is simply dummy text of the
                                     printing and typesetting industry. Lorem
-                                    Ipsum has been the industry's standard dummy
-                                    text ever since the 1500s, when an unknown
-                                    printer took a galley of type and scrambled
-                                    it to make a type specimen book.
+                                    Ipsum has been the industry&apos;s standard
+                                    dummy text ever since the 1500s, when an
+                                    unknown printer took a galley of type and
+                                    scrambled it to make a type specimen book.
                                 </p>
                                 <Button
                                     className="rounded-xl px-4 py-4"
@@ -71,7 +73,7 @@ export default function Page() {
                         }}
                     >
                         {/* Fly Object Dino */}
-                        <img
+                        <Image
                             src="/assets/images/main/mascot-1.svg"
                             className="absolute bottom-2 right-16 -z-10"
                         />
