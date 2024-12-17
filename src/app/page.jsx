@@ -11,24 +11,26 @@ import HeroCloud from "@/components/homepages/hero-cloud";
 import { Button } from "@/components/shadcn/ui/button";
 
 export default function Page() {
-    const [bounds, setBounds] = useState({
-        top: 0,
-        left: 0,
-        right: 0,
-        bottom: 0,
-    });
     const parentRef = useRef(null);
+    const draggableRef = useRef(null);
+    const [bounds, setBounds] = useState({
+        left: -150,
+        top: -150,
+        right: -150,
+        bottom: -150,
+    });
 
     useEffect(() => {
-        if (parentRef.current) {
-            const parentRect = parentRef.current.getBoundingClientRect();
-            const offset = 50; // Offset 50px
+        if (parentRef.current && draggableRef.current) {
+            const parent = parentRef.current.getBoundingClientRect();
+            const child = draggableRef.current.getBoundingClientRect();
 
+            // Hitung batas pergerakan
             setBounds({
-                top: -offset, // Batas atas (-50px)
-                left: -offset, // Batas kiri (-50px)
-                right: offset, // Batas kanan (50px)
-                bottom: offset, // Batas bawah (50px)
+                left: -(child.width - parent.width), // Batas kiri
+                top: -(child.height - parent.height), // Batas atas
+                right: 0, // Batas kanan
+                bottom: 0, // Batas bawah
             });
         }
     }, []);
@@ -38,63 +40,15 @@ export default function Page() {
             <section className="w-full ">
                 <HeroCloud>
                     <div
-                        className="w-full h-[500px] overflow-hidden bg-gray-400"
+                        className="w-full h-[100%] overflow-hidden bg-gray-400"
                         ref={parentRef}
                     >
-                        {/* <Draggable
-                            onMouseDown={handleMouseDown}
-                            onStop={handleStop}
-                            position={isDragging ? null : { x: 0, y: 0 }}
-                            // axis="x"
-                            // handle=".handle"
-                            // defaultPosition={{ x: 0, y: 0 }}
-                            // position={null}
-                            // grid={[25, 25]}
-                            // scale={1}
-                            // onStart={handleStart}
-                            // onDrag={handleDrag}
-                            // onStop={handleStop}
-                            bounds="parent"
-                        > */}
-                        {/* <div>
-                                <div className="handle">Drag from here</div>
-                                <div>This readme is really dragging on...</div>
-                            </div> */}
-                        {/* <img
-                                src="/assets/images/main/maps.png" // Ganti path gambar
-                                alt="Map"
-                                className="draggable-img w-[200%] h-[200%]"
-                            />
-                        </Draggable> */}
-                        {/* <Draggable
-                            bounds="parent"
-                            position={position} // Mengontrol posisi dengan state
-                            onDrag={handleDrag} // Update posisi saat drag
-                            onStop={handleStop} // Simpan posisi saat drag berhenti
-                        >
-                            <div
-                                style={{
-                                    width: "100%",
-                                    height: "100%",
-                                    padding: "20px",
-                                    background: "#4caf50",
-                                    color: "white",
-                                    borderRadius: "8px",
-                                    cursor: "move",
-                                    userSelect: "none",
-                                }}
-                            >
-                                Drag saya! Posisi tetap.
-                                <div>
-                                    x: {position.x}, y: {position.y}
-                                </div>
-                            </div>
-                        </Draggable> */}
                         <Draggable bounds={bounds}>
                             <div
+                                ref={draggableRef}
                                 style={{
-                                    width: "100%", // Menggunakan 100% dari parent
-                                    height: "100%", // Menggunakan 100% dari parent
+                                    width: "150%", // Menggunakan 100% dari parent
+                                    height: "125%", // Menggunakan 100% dari parent
                                     background: "#4caf50",
                                     color: "white",
                                     display: "flex",
@@ -103,10 +57,13 @@ export default function Page() {
                                     borderRadius: "8px",
                                     cursor: "move",
                                     boxSizing: "border-box",
+                                    position: "relative",
+                                    backgroundImage:
+                                        "url('/assets/images/main/maps.png')",
+                                    backgroundRepeat: "no-repeat",
+                                    backgroundSize: "100% 100%",
                                 }}
-                            >
-                                Drag saya!
-                            </div>
+                            ></div>
                         </Draggable>
                     </div>
                 </HeroCloud>
