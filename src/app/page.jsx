@@ -1,4 +1,8 @@
-import Image from "next/image";
+"use client";
+
+// Library
+import { useState, useEffect, useRef } from "react";
+import Draggable, { DraggableCore } from "react-draggable";
 
 // Components Pages
 import HeroCloud from "@/components/homepages/hero-cloud";
@@ -7,17 +11,110 @@ import HeroCloud from "@/components/homepages/hero-cloud";
 import { Button } from "@/components/shadcn/ui/button";
 
 export default function Page() {
+    const [bounds, setBounds] = useState({
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+    });
+    const parentRef = useRef(null);
+
+    useEffect(() => {
+        if (parentRef.current) {
+            const parentRect = parentRef.current.getBoundingClientRect();
+            const offset = 50; // Offset 50px
+
+            setBounds({
+                top: -offset, // Batas atas (-50px)
+                left: -offset, // Batas kiri (-50px)
+                right: offset, // Batas kanan (50px)
+                bottom: offset, // Batas bawah (50px)
+            });
+        }
+    }, []);
+
     return (
         <>
             <section className="w-full ">
                 <HeroCloud>
-                    <div className="w-full h-full bg-gray-400">asd</div>
+                    <div
+                        className="w-full h-[500px] overflow-hidden bg-gray-400"
+                        ref={parentRef}
+                    >
+                        {/* <Draggable
+                            onMouseDown={handleMouseDown}
+                            onStop={handleStop}
+                            position={isDragging ? null : { x: 0, y: 0 }}
+                            // axis="x"
+                            // handle=".handle"
+                            // defaultPosition={{ x: 0, y: 0 }}
+                            // position={null}
+                            // grid={[25, 25]}
+                            // scale={1}
+                            // onStart={handleStart}
+                            // onDrag={handleDrag}
+                            // onStop={handleStop}
+                            bounds="parent"
+                        > */}
+                        {/* <div>
+                                <div className="handle">Drag from here</div>
+                                <div>This readme is really dragging on...</div>
+                            </div> */}
+                        {/* <img
+                                src="/assets/images/main/maps.png" // Ganti path gambar
+                                alt="Map"
+                                className="draggable-img w-[200%] h-[200%]"
+                            />
+                        </Draggable> */}
+                        {/* <Draggable
+                            bounds="parent"
+                            position={position} // Mengontrol posisi dengan state
+                            onDrag={handleDrag} // Update posisi saat drag
+                            onStop={handleStop} // Simpan posisi saat drag berhenti
+                        >
+                            <div
+                                style={{
+                                    width: "100%",
+                                    height: "100%",
+                                    padding: "20px",
+                                    background: "#4caf50",
+                                    color: "white",
+                                    borderRadius: "8px",
+                                    cursor: "move",
+                                    userSelect: "none",
+                                }}
+                            >
+                                Drag saya! Posisi tetap.
+                                <div>
+                                    x: {position.x}, y: {position.y}
+                                </div>
+                            </div>
+                        </Draggable> */}
+                        <Draggable bounds={bounds}>
+                            <div
+                                style={{
+                                    width: "100%", // Menggunakan 100% dari parent
+                                    height: "100%", // Menggunakan 100% dari parent
+                                    background: "#4caf50",
+                                    color: "white",
+                                    display: "flex",
+                                    alignItems: "center",
+                                    justifyContent: "center",
+                                    borderRadius: "8px",
+                                    cursor: "move",
+                                    boxSizing: "border-box",
+                                }}
+                            >
+                                Drag saya!
+                            </div>
+                        </Draggable>
+                    </div>
                 </HeroCloud>
 
                 <section className="w-full relative">
                     {/* Fly Object */}
                     <div className="w-full h-[150px] mb-4 flex justify-end pr-[50px]">
-                        <Image
+                        <img
                             className="w-auto h-full"
                             src="/assets/images/icon/ticket-icon.png"
                         />
@@ -26,7 +123,7 @@ export default function Page() {
                     {/* Content Object */}
                     <div className="w-full h-auto flex gap-4 z-5 pb-12 px-8">
                         <div className="w-full h-auto flex justify-end items-center pr-4 pl-8">
-                            <Image
+                            <img
                                 className="w-full h-auto"
                                 src="/assets/images/image-1.png"
                             />
@@ -73,7 +170,7 @@ export default function Page() {
                         }}
                     >
                         {/* Fly Object Dino */}
-                        <Image
+                        <img
                             src="/assets/images/main/mascot-1.svg"
                             className="absolute bottom-2 right-16 -z-10"
                         />
