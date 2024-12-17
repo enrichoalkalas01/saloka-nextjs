@@ -1,40 +1,55 @@
-"use client"
-import React from "react"
+"use client";
+
+// Library
+import React from "react";
 import {
     Drawer,
     Button,
     Typography,
     IconButton,
     Collapse,
-
     Menu,
     MenuHandler,
     MenuList,
     MenuItem,
-} from "@material-tailwind/react"
-import { BsCart4 } from "react-icons/bs"
-import { FaCircleUser } from "react-icons/fa6"
-import { FaChevronDown, FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa"
-import { CgClose } from "react-icons/cg"
-import { HiChevronRight } from "react-icons/hi"
+} from "@material-tailwind/react";
+
+// Icons
+import { BsCart4 } from "react-icons/bs";
+import { FaCircleUser } from "react-icons/fa6";
+import {
+    FaChevronDown,
+    FaFacebookF,
+    FaInstagram,
+    FaTwitter,
+    FaYoutube,
+} from "react-icons/fa";
+import { CgClose } from "react-icons/cg";
+import { HiChevronRight } from "react-icons/hi";
 
 export default function Navbar() {
-    const [OpenMenu, setOpenMenu] = React.useState(false)
-    const [ZonaMenu, setZonaMenu] = React.useState(false)
-    const [AboutMenu, setAboutMenu] = React.useState(false)
+    const [OpenMenu, setOpenMenu] = React.useState(false);
+    const [ZonaMenu, setZonaMenu] = React.useState(false);
+    const [AboutMenu, setAboutMenu] = React.useState(false);
 
-    return(
+    return (
         <>
             <section className="w-full bg-[#363636] text-white flex justify-center">
                 {/* Left Menu & Bar */}
                 <div className="left-menu w-full mx-2 pr-4 pl-4 hidden lg:flex relative">
                     <div className="w-auto menus-burger relative flex">
                         <div className="h-full flex justify-center items-center mx-4">
-                            <BsCart4 size={25} className="text-[#6fb75a] cursor-pointer" />
+                            <BsCart4
+                                size={25}
+                                className="text-[#6fb75a] cursor-pointer"
+                            />
                             <span className="pl-2 text-sm">0</span>
                         </div>
                         <div className="h-full flex justify-center items-center mx-4 w-[100px]">
-                            <FaCircleUser size={25} className="text-[#fff] cursor-pointer" />
+                            <FaCircleUser
+                                size={25}
+                                className="text-[#fff] cursor-pointer"
+                            />
                             <div className="pl-2 text-sm w-full">Sign In</div>
                         </div>
                     </div>
@@ -49,11 +64,21 @@ export default function Navbar() {
                                         </Typography>
                                     </MenuHandler>
                                     <MenuList className="bg-[#363636] text-white border-none">
-                                        <MenuItem className="hover:bg-[#585858] hover:text-white">Ararya</MenuItem>
-                                        <MenuItem className="hover:bg-[#585858] hover:text-white">Balalantara</MenuItem>
-                                        <MenuItem className="hover:bg-[#585858] hover:text-white">Kamayayi</MenuItem>
-                                        <MenuItem className="hover:bg-[#585858] hover:text-white">Pesisir</MenuItem>
-                                        <MenuItem className="hover:bg-[#585858] hover:text-white">Sagara Prada</MenuItem>
+                                        <MenuItem className="hover:bg-[#585858] hover:text-white">
+                                            Ararya
+                                        </MenuItem>
+                                        <MenuItem className="hover:bg-[#585858] hover:text-white">
+                                            Balalantara
+                                        </MenuItem>
+                                        <MenuItem className="hover:bg-[#585858] hover:text-white">
+                                            Kamayayi
+                                        </MenuItem>
+                                        <MenuItem className="hover:bg-[#585858] hover:text-white">
+                                            Pesisir
+                                        </MenuItem>
+                                        <MenuItem className="hover:bg-[#585858] hover:text-white">
+                                            Sagara Prada
+                                        </MenuItem>
                                     </MenuList>
                                 </Menu>
                             </li>
@@ -69,7 +94,10 @@ export default function Navbar() {
                     <div className="w-[200px] flex justify-center relative">
                         <div className="w-[200px] h-[100px] bg-white absolute shadow border rounded-br-full rounded-bl-full text-[#000] flex justify-center">
                             <div className="w-full h-[75%] flex justify-center pt-2">
-                                <img src="/assets/images/logo/logo.png" className="w-auto h-[75%]" />
+                                <img
+                                    src="/assets/images/logo/logo.png"
+                                    className="w-auto h-[75%]"
+                                />
                             </div>
                         </div>
                     </div>
@@ -90,15 +118,18 @@ export default function Navbar() {
                     <div className="w-full lg:w-auto menus-burger relative flex h-20px lg:h-auto">
                         <div className="w-full lg:hidden py-2 flex items-center h-auto py-4">
                             <a href="/">
-                                <img src="/assets/images/logo/logo.png" className="w-auto h-[35px]" />
+                                <img
+                                    src="/assets/images/logo/logo.png"
+                                    className="w-auto h-[35px]"
+                                />
                             </a>
                         </div>
                         <div
                             className="w-full h-full lg:w-[175px] lg:h-[100%] flex cursor-pointer bg-[right_bottom_0.5rem] bg-[right_0]"
                             style={{
                                 background: `url('/assets/images/component/menu-bar.svg')`,
-                                backgroundRepeat: 'no-repeat',
-                                backgroundSize: '100% 100%',
+                                backgroundRepeat: "no-repeat",
+                                backgroundSize: "100% 100%",
                                 // backgroundPosition: 'top -1.5px right 0'
                             }}
                             onClick={() => setOpenMenu(true)}
@@ -107,8 +138,8 @@ export default function Navbar() {
                 </div>
             </section>
 
-            <section className="overlay-menu w-full h-[100vh] absolute top-0 left-0 bg-[rgba(0,0,0,0.75)] flex justify-end transition ease-in delay-150">
-                {/* <div
+            {/* <section className="overlay-menu w-full h-[100vh] absolute top-0 left-0 bg-[rgba(0,0,0,0.75)] flex justify-end transition ease-in delay-150"> */}
+            {/* <div
                     className="w-[100%] h-full flex justify-end flex-row"
                     style={{
                         backgroundImage: `url('/assets/images/main/menu-popup-bg-2.svg')`,
@@ -222,7 +253,7 @@ export default function Navbar() {
                         </div>
                     </div>
                 </div> */}
-            </section>
+            {/* </section> */}
         </>
-    )
+    );
 }
