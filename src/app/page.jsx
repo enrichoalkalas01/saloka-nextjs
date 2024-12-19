@@ -82,7 +82,6 @@ export default function Page() {
                 <div
                     className="
                         w-full
-                        h-auto
                         h-[1000px]
                         relative
                         text-white
@@ -95,7 +94,6 @@ export default function Page() {
                     "
                 >
                     {/* Konten Anda di sini */}
-                    asd asdk as;dkas d;aks d;aksd ;askd as;kd
                 </div>
             </section>
         </>

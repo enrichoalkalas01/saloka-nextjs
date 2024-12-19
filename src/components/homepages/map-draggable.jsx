@@ -38,24 +38,27 @@ export default function MapDraggable() {
                 <Draggable bounds={bounds}>
                     <div
                         ref={draggableRef}
-                        style={{
-                            width: "150%", // Menggunakan 100% dari parent
-                            height: "125%", // Menggunakan 100% dari parent
-                            background: "#4caf50",
-                            color: "white",
-                            display: "flex",
-                            alignItems: "center",
-                            justifyContent: "center",
-                            borderRadius: "8px",
-                            cursor: "move",
-                            boxSizing: "border-box",
-                            position: "relative",
-                            backgroundImage:
-                                "url('/assets/images/main/maps.png')",
-                            backgroundRepeat: "no-repeat",
-                            backgroundSize: "100% 100%",
-                        }}
-                    ></div>
+                        className="w-[1280px] h-[720px] md:w-[1440px] md:h-[1080px] lg:w-[2000px] lg:h-[1700px] bg-slate-400"
+                    >
+                        <div
+                            className="w-full h-full"
+                            style={{
+                                background: "#4caf50",
+                                color: "white",
+                                display: "flex",
+                                alignItems: "center",
+                                justifyContent: "center",
+                                borderRadius: "8px",
+                                cursor: "move",
+                                boxSizing: "border-box",
+                                position: "relative",
+                                backgroundImage:
+                                    "url('/assets/images/main/maps.png')",
+                                backgroundRepeat: "no-repeat",
+                                backgroundSize: "100% 100%",
+                            }}
+                        ></div>
+                    </div>
                 </Draggable>
             </div>
         </>
